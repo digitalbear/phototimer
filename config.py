@@ -1,6 +1,6 @@
 config = {}
-config["am"] = 400
-config["pm"] = 2000
+config["am"] = 800
+config["pm"] = 1900
 
 config["flip_horizontal"] = False
 config["flip_vertical"] = False
